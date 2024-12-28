@@ -28,4 +28,4 @@ python app.py
 Draw a digit on the canvas and hit the "Predict Digit" button on screen, and the application will recognize and predict the digit.
 
 ## Download
-[Download Repository](https://github.com/Roshni784/Digit_Canvas)
+[Download Repository](https://www.kaggle.com/datasets/sylvia23/mnist-data-for-digit-recognation)
